@@ -1,0 +1,13 @@
+{
+  "require": {
+  },
+  "require-dev": {
+    "phpdocumentor/phpdocumentor": "2.*",
+    "doctrine/annotations": "1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "HelloBigWorld\\": "src/"
+    }
+  }
+}

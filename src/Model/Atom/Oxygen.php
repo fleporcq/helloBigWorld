@@ -1,5 +1,5 @@
 <?php
-namespace HelloBigWorld\Model\Atomic;
+namespace HelloBigWorld\Model\Atom;
 
 /**
  * Class Oxygen

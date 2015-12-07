@@ -1,0 +1,13 @@
+<?php
+namespace HelloBigWorld\Model\Atom\SubAtomic;
+
+/**
+ * Class Electron
+ *
+ * Un électron est une particule subatomique de charge électrique négative.
+ *
+ * @package HelloBigWorld\Model
+ */
+class Electron {
+
+}

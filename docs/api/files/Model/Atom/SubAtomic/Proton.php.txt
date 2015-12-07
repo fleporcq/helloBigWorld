@@ -1,0 +1,13 @@
+<?php
+namespace HelloBigWorld\Model\Atom\SubAtomic;
+
+/**
+ * Class Proton
+ *
+ * Un proton est une particule subatomique de charge électrique positive.
+ *
+ * @package HelloBigWorld\Model
+ */
+class Proton {
+
+}

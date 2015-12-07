@@ -1,7 +1,7 @@
 <?php
 
-use \HelloBigWorld\Model\Atom;
+use \HelloBigWorld\Model\Atom\Carbon;
 
 require_once('vendor' . DIRECTORY_SEPARATOR . 'autoload.php');
 
-$atom = new Atom();
+$atom = new Carbon();

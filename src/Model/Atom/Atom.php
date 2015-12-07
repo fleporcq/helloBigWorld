@@ -1,5 +1,5 @@
 <?php
-namespace HelloBigWorld\Model;
+namespace HelloBigWorld\Model\Atomic;
 
 /**
  * Class Atom
@@ -7,10 +7,11 @@ namespace HelloBigWorld\Model;
  * Un atome est la plus petite partie d'un corps simple pouvant se combiner chimiquement avec un autre.
  *
  * @package HelloBigWorld\Models
- * @CoreConcept
+ * @abstract
  */
-class Atom{
-    public function __construct(){
+abstract class Atom{
 
-    }
+    protected $number;
+
+    protected $symbol;
 }

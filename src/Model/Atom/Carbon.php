@@ -1,0 +1,18 @@
+<?php
+namespace HelloBigWorld\Model\Atomic;
+
+/**
+ * Class Carbon
+ *
+ * Le carbone est l'élément chimique de numéro atomique 6, de symbole C.
+ *
+ * @package HelloBigWorld\Model
+ */
+class Carbon extends Atom
+{
+    public function __construct()
+    {
+        $this->number = 6;
+        $this->symbol = 'C';
+    }
+}
